@@ -70,6 +70,7 @@ function Home() {
                         <input
                             type="url"
                             value={url}
+                            required
                             onChange={(e) => setUrl(e.target.value)}
                             placeholder="Enter URL Here"
                             className="p-2 sm:p-3 font-sans  mt-2 rounded-md w-full sm:w-[450px] outline-none select-none "
