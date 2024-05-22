@@ -82,7 +82,7 @@ function Home() {
                         >
                             {isLoading ? "Loading..." : "Download"}
                         </button>
-                    <p className="text-sm text-white self-center">Ad-Free Youtube Video Downloader</p>
+                    <p className="text-sm text-white self-center mt-2">Ad-Free Youtube Video Downloader</p>
                         
                     </form>
                 </div>
