@@ -57,7 +57,7 @@ function Home() {
                     </svg>
                 </div>
                 <div className="flex z-[10] flex-col justify-center items-center ">
-                    <p className="text-xs text-white">Ad-Free Youtube Video Downloader</p>
+                    <p className="text-sm text-white">Ad-Free Youtube Video Downloader</p>
                     <div className="flex gap-4 justify-center items-center">
                         <h1 className="text-5xl sm:text-6xl font-bold text-[#0099FF]">
                             Seawave
