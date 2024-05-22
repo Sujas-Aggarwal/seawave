@@ -63,6 +63,7 @@ function Home() {
                         </h1>
                         <div className="w-[45px] h-[45px] bg-center bg-[url(/favicon.svg)] bg-no-repeat bg-cover rounded-full"></div>
                     </div>
+                    <p>Ad-Free Youtube Video Downloader</p>
                     <form
                         onSubmit={handleSubmit}
                         className="w-full flex flex-col justify-center items-stretch"
