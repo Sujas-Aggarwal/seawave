@@ -57,13 +57,14 @@ function Home() {
                     </svg>
                 </div>
                 <div className="flex z-[10] flex-col justify-center items-center ">
+                    <p className="text-xs text-white">Ad-Free Youtube Video Downloader</p>
                     <div className="flex gap-4 justify-center items-center">
                         <h1 className="text-5xl sm:text-6xl font-bold text-[#0099FF]">
                             Seawave
                         </h1>
                         <div className="w-[45px] h-[45px] bg-center bg-[url(/favicon.svg)] bg-no-repeat bg-cover rounded-full"></div>
                     </div>
-                    <p>Ad-Free Youtube Video Downloader</p>
+                    
                     <form
                         onSubmit={handleSubmit}
                         className="w-full flex flex-col justify-center items-stretch"
